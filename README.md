@@ -14,25 +14,37 @@
 
 Welcome! This guide will walk you through downloading and installing the brushes in Adobe Photoshop.
 
-### 📥 Step 1: Download the Brushes
+### 📥 Downloading the Brushes
+
+Choose the method that suits you best.
+
+#### Method 1: Simple Download (for Beginners)
 
 1.  Click the green **<> Code** button at the top-right of this page.
 2.  Select **Download ZIP** from the dropdown menu.
 3.  Save the `photoshop-brushes-main.zip` file to your computer.
+4.  Unzip the downloaded file. A new folder named `photoshop-brushes-main` will be created.
 
-### 📦 Step 2: Unzip the Files
+#### Method 2: Command Line Download (for Advanced Users)
 
-1.  Find the downloaded `photoshop-brushes-main.zip` file (usually in your "Downloads" folder).
-2.  Right-click the file and choose **Extract All...** or **Unzip**.
-3.  A new folder named `photoshop-brushes-main` will be created.
+1.  Open your command prompt or terminal.
+2.  Clone the repository using the following command:
+    ```bash
+    git clone https://github.com/masarax/photoshop-brushes.git
+    ```
+3.  This will create a `photoshop-brushes` folder containing all the files.
 
-### 🎨 Step 3: Load Brushes into Photoshop
+---
+
+### 🎨 Step-by-Step Installation in Photoshop
+
+After downloading the files using either method, follow these steps:
 
 1.  Launch **Adobe Photoshop**.
 2.  Select the **Brush Tool** (or press `B`).
 3.  In the Brush Preset picker, click the **gear icon** ⚙️ in the top-right corner.
 4.  Choose **Import Brushes...**.
-5.  Navigate to the `photoshop-brushes-main` folder, then open the `brushes` subfolder.
+5.  Navigate to the folder you downloaded (`photoshop-brushes-main` or `photoshop-brushes`), then open the `brushes` subfolder.
 6.  Select a brush file (e.g., `MasaraX - Blood Brushes.abr`) and click **Load**.
 
 <div align="center">
