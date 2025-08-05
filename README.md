@@ -1,45 +1,61 @@
-# Photoshop Brushes by MasaraX
+<div align="center">
 
-This repository contains a collection of custom Photoshop brushes created by MasaraX.
+# 🖌️ Photoshop Brushes by MasaraX 🖌️
 
-## How to Download and Install the Brushes
+</div>
 
-You don't need to be a GitHub expert to use these brushes. Follow these simple steps to download and install them in Photoshop.
+<p align="center">
+  A collection of custom Photoshop brushes to enhance your creative projects.
+</p>
 
-### Step 1: Download the Brush Files
+---
 
-1.  Click on the green **<> Code** button on the top right of this page.
-2.  A dropdown menu will appear. Click on **Download ZIP**.
-3.  This will download a file named `photoshop-brushes-main.zip` to your computer.
+## 🚀 Getting Started
 
-### Step 2: Unzip the Files
+Welcome! This guide will walk you through downloading and installing the brushes in Adobe Photoshop.
 
-1.  Locate the downloaded `photoshop-brushes-main.zip` file on your computer (usually in your "Downloads" folder).
-2.  Right-click on the file and select **Extract All...** or **Unzip**.
-3.  This will create a new folder named `photoshop-brushes-main`.
+### 📥 Step 1: Download the Brushes
 
-### Step 3: Load the Brushes in Photoshop
+1.  Click the green **<> Code** button at the top-right of this page.
+2.  Select **Download ZIP** from the dropdown menu.
+3.  Save the `photoshop-brushes-main.zip` file to your computer.
 
-1.  Open Adobe Photoshop.
-2.  Select the **Brush Tool** from the toolbar (or press the `B` key).
-3.  In the Brush Preset picker, click the gear icon in the top right corner.
-4.  Select **Import Brushes...**.
-5.  Navigate to the `photoshop-brushes-main` folder you extracted earlier.
-6.  Inside that folder, open the `brushes` folder.
-7.  You will see several `.abr` files. Select the brush file you want to install (e.g., `MasaraX - Blood Brushes.abr`) and click **Load**.
-8.  The brushes will now be available in your Brush Preset picker.
+### 📦 Step 2: Unzip the Files
 
-That's it! You can now use the brushes in your Photoshop projects.
+1.  Find the downloaded `photoshop-brushes-main.zip` file (usually in your "Downloads" folder).
+2.  Right-click the file and choose **Extract All...** or **Unzip**.
+3.  A new folder named `photoshop-brushes-main` will be created.
 
-## Available Brushes
+### 🎨 Step 3: Load Brushes into Photoshop
 
-*   Blood Brushes
-*   Cloud Brushes
-*   Fire Brushes
-*   Fireworks Brushes
-*   Lightning Bolt Brushes
-*   Smoke Brushes
+1.  Launch **Adobe Photoshop**.
+2.  Select the **Brush Tool** (or press `B`).
+3.  In the Brush Preset picker, click the **gear icon** ⚙️ in the top-right corner.
+4.  Choose **Import Brushes...**.
+5.  Navigate to the `photoshop-brushes-main` folder, then open the `brushes` subfolder.
+6.  Select a brush file (e.g., `MasaraX - Blood Brushes.abr`) and click **Load**.
 
-## License
+<div align="center">
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+*Your new brushes are now ready to use!* ✨
+
+</div>
+
+---
+
+## 🖌️ Available Brush Packs
+
+| Brush Pack            | Preview                                       |
+| --------------------- | --------------------------------------------- |
+| **Blood Brushes**     | ![Blood Brushes](brushes/MasaraX%20-%20Blood%20Brushes.jpg)       |
+| **Cloud Brushes**     | ![Cloud Brushes](brushes/MasaraX%20-%20Cloud%20Brushes.jpg)       |
+| **Fire Brushes**      | ![Fire Brushes](brushes/MasaraX%20-%20Fire%20Brushes.jpg)         |
+| **Fireworks Brushes** | ![Fireworks Brushes](brushes/MasaraX%20-%20Fireworks%20Brushes.jpg) |
+| **Lightning Bolt Brushes** | ![Lightning Bolt Brushes](brushes/MasaraX%20-%20Lightning%20Bolt%20Brushes.jpg) |
+| **Smoke Brushes**     | ![Smoke Brushes](brushes/MasaraX%20-%20Smoke%20Brushes.jpg)       |
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
