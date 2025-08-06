@@ -65,6 +65,7 @@ After downloading the files using either method, follow these steps:
 | **Fireworks Brushes** | ![Fireworks Brushes](brushes/MasaraX%20-%20Fireworks%20Brushes.jpg) |
 | **Lightning Bolt Brushes** | ![Lightning Bolt Brushes](brushes/MasaraX%20-%20Lightning%20Bolt%20Brushes.jpg) |
 | **Smoke Brushes**     | ![Smoke Brushes](brushes/MasaraX%20-%20Smoke%20Brushes.jpg)       |
+| **Lighting Brushes**  | ![Lighting Brushes](brushes/Brushpack-Lighting.jpg) |
 
 ---
 
